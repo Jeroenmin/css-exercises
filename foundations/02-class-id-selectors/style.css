@@ -1,0 +1,19 @@
+.number {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 127, 127);
+}
+
+.three {
+   font-size: 24px; 
+}
+
+#title {
+    color:blue;
+    font-size: 36px;
+  }
+
+#number4{
+    background-color: rgb(127,255,127);
+    font-size: 24px;
+    font-weight: bold;
+}
